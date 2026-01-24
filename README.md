@@ -1,76 +1,103 @@
-# 👋 Hi, I'm Estuardo Zelaya
+# 👋 Hi, I'm Estuardo Bengoechea
 
-Senior Full-Stack Developer with **15+ years of experience** building scalable web applications, APIs, and digital platforms for international clients. Strong focus on **remote collaboration**, clean architecture, performance, and long-term maintainability.
+Senior Software Developer / Full-Stack Developer with **15+ years of experience** designing, building, and maintaining scalable web platforms and APIs. Proven track record delivering **business-critical systems** across payments, communications, and content-driven platforms using JavaScript, PHP, Python, and WordPress.
 
-Experienced working with **US-based companies and distributed teams**, comfortable across time zones and async-first workflows.
+Experienced working with **US-based, fully remote teams**, trusted to deliver complex systems end-to-end while balancing performance, security, and long-term maintainability. Strong background in **JavaScript, PHP, Python, and WordPress**, with proven expertise in modern frameworks such as **Laravel, React, and Vue**.
+
+I have extensive experience working with **US-based companies and remote teams**, contributing to mission-critical systems involving payments, communications, and high-traffic platforms.
 
 ---
 
 ## 🎯 Current Focus
 
-* Designing **scalable backend architectures** for SaaS platforms
-* Building **API-first systems** for web & mobile clients
-* Improving **performance, reliability, and observability**
-* Modernizing legacy PHP applications
-* Leveraging **TypeScript & modern JS tooling** in large codebases
+* Designing **scalable SaaS backends** and platform services
+* Building **API-first systems** for payments, messaging, and integrations
+* Modernizing **legacy PHP & WordPress systems** wi
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Expertise
+
+**Languages & Core**
+PHP · JavaScript · TypeScript · Python · Ruby · Rust
 
 **Frontend**
-JavaScript, TypeScript · React.js · Vue.js · HTML5 · CSS3 · Tailwind · Bootstrap
+React · Vue · React Native · HTML5 · CSS3
 
-**Backend**
-PHP (Laravel, WordPress) · Node.js · Python
+**Backend & CMS**
+Laravel · Node.js · WordPress (Custom Plugins & Themes)
 
 **Databases**
-MySQL · PostgreSQL · MongoDB
+SQL · NoSQL
 
-**DevOps & Tools**
-Git & GitHub · Docker · Composer · NPM · REST APIs · Webhooks · CI/CD
+**Infrastructure & Tools**
+AWS · cPanel · SSH · Git/GitHub · Docker
 
----
-
-## 📌 Featured Projects (Examples)
-
-> *Representative example projects. Production repositories can be added progressively.*
-
-### 🔹 SaaS Billing & Subscription Platform
-
-**Laravel · MySQL · Stripe API**
-
-* Multi-tenant architecture
-* Subscription & invoice management
-* Webhook-based payment processing
-* Secure role-based access control
-
-### 🔹 Global SMS & Communication API
-
-**Node.js · Twilio API**
-
-* International SMS delivery
-* Phone number validation & country detection
-* Usage tracking and cost reporting
-* Scalable REST API design
+**APIs & Integrations**
+REST · OpenAPI · Stripe · Twilio (API & TwiML) · AI Code Assistants
 
 ---
 
-## 🇺🇸 Remote‑Ready for US Teams
+## 💼 Professional Experience & Leadership
 
-* 🕒 Experienced across US time zones
-* 💬 Strong written & verbal communication
-* 📋 Comfortable with Agile / Scrum ceremonies
-* 🤝 Async-first collaboration
-* 🔐 Security & compliance‑aware development
-* ✅ Reliable delivery with minimal supervision
+### 🏢 Livecomm — **Lead Software Developer**
+
+*2017 – Present*
+
+* Owned requirements discovery, technical analysis, and end‑to‑end delivery across development and testing environments
+* Architected and delivered core platform capabilities including:
+
+  * Messaging systems
+  * VoIP calls
+  * Email notifications
+  * Stripe payment processing
+* Integrated third-party services such as **Twilio (API/TwiML)** and **Infusionsoft**
+* Established code quality standards through reviews, refactoring, and pull request governance
+* Tracked sprint execution, delivery metrics, and communicated progress to stakeholders
 
 ---
 
-## 📫 Let’s Connect
+### 🏢 VNDX — **WordPress Expert & PHP Developer**
+
+*2014 – 2017*
+
+* Led the design and implementation of WordPress-based solutions and custom PHP applications
+* Built **custom plugins**, optimized and tailored themes
+* Integrated external APIs and third-party services
+* Enforced security hardening, best practices, and long-term platform maintainability
+* Provided ongoing maintenance and performance optimization
+
+---
+
+## 🎓 Education
+
+* **Bachelor of Business Management** (2025 – 2029)
+  School of Business · Wardiere University
+  GPA: 3.8 / 4.0
+
+* **Bachillerato en Computación** (1999 – 2001)
+
+---
+
+## 📜 Certifications
+
+* Senior Laravel Developer (2025 – 2026)
+* Senior ReactJS Developer (2025 – 2026)
+* Senior VueJS Developer (2025 – 2026)
+
+---
+
+## 🌐 Languages
+
+* Spanish — Native
+* English — Fluent
+
+---
+
+## 📫 Contact & Profiles
 
 * 💻 GitHub: [https://github.com/your-username](https://github.com/your-username)
-* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* ✉️ Email: [your@email.com](mailto:your@email.com)
+* 💼 Upwork: [https://www.upwork.com/freelancers/~01c0b7c1971a3dcec0](https://www.upwork.com/freelancers/~01c0b7c1971a3dcec0)
+* ✉️ Email: [osaki3b3@gmail.com](mailto:osaki3b3@gmail.com)
 
-⭐ *Open to remote opportunities with US‑based teams.*
+⭐ *Open to remote opportunities with US-based teams.*
