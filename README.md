@@ -81,6 +81,13 @@ REST · OpenAPI · Stripe · Twilio (API & TwiML) · AI Code Assistants
 * Senior ReactJS Developer (2025 – 2026)
 * Senior VueJS Developer (2025 – 2026)
 
+* Others *
+
+* AWS Certified Solutions Architect Associate
+* Mathematics-Basics to Advanced for Data Science And GenAI
+* Scrum & Agile
+  
+
 ---
 
 ## 🌐 Languages
