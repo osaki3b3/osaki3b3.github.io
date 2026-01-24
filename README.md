@@ -10,9 +10,11 @@ I have extensive experience working with **International companies and remote te
 
 ## 🎯 Current Focus
 
-* Designing **scalable SaaS backends** and platform services
-* Building **API-first systems** for payments, messaging, and integrations
-* Modernizing **legacy PHP & WordPress systems** wi
+* Architecting **scalable, resilient SaaS backends** with clear domain boundaries
+* Designing **API-first platforms** supporting payments, messaging, and third-party integrations
+* Leading modernization of **legacy PHP & WordPress systems** with a focus on stability and security
+* Driving **performance optimization and observability** in production environments
+* Applying **TypeScript and modern JavaScript frameworks** to reduce technical debt
 
 ---
 
