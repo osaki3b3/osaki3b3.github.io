@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80" alt="Sunset Hero Banner" />
-</p>
-
 # 👋 Hi, I'm Estuardo Bengoechea
 
 Senior Software Developer / Full-Stack Developer with **15+ years of experience** designing, building, and maintaining scalable web platforms and APIs. Proven track record delivering **business-critical systems** across payments, communications, and content-driven platforms using JavaScript, PHP, Python, Laravel and WordPress.
