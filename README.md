@@ -16,25 +16,26 @@ I have extensive experience working with **International companies and remote te
 
 ---
 
+
 ## 🛠️ Technical Expertise
 
 **Languages & Core**
-PHP · JavaScript · TypeScript · Python · Ruby · Rust
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby\&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust\&logoColor=white)
 
 **Frontend**
-React · Vue · React Native · HTML5 · CSS3
+![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js\&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react\&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)
 
 **Backend & CMS**
-Laravel · Node.js · WordPress (Custom Plugins & Themes)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel\&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress\&logoColor=white)
 
 **Databases**
-SQL · NoSQL
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white)
 
 **Infrastructure & Tools**
-AWS · cPanel · SSH · Git/GitHub · Docker
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws\&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white) ![SSH](https://img.shields.io/badge/SSH-000000?logo=gnu-bash\&logoColor=white)
 
 **APIs & Integrations**
-REST · OpenAPI · Stripe · Twilio (API & TwiML) · AI Code Assistants
+![REST](https://img.shields.io/badge/REST-02569B?logo=swagger\&logoColor=white) ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapi-initiative\&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe\&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?logo=twilio\&logoColor=white)
 
 ---
 
