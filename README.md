@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Estuardo Bengoechea
 
-Senior Software Developer / Full-Stack Developer with **15+ years of experience** designing, building, and maintaining scalable web platforms and APIs. Proven track record delivering **business-critical systems** across payments, communications, and content-driven platforms using JavaScript, PHP, Python, and WordPress.
+Senior Software Developer / Full-Stack Developer with **15+ years of experience** designing, building, and maintaining scalable web platforms and APIs. Proven track record delivering **business-critical systems** across payments, communications, and content-driven platforms using JavaScript, PHP, Python, Laravel and WordPress.
 
-Experienced working with **US-based, fully remote teams**, trusted to deliver complex systems end-to-end while balancing performance, security, and long-term maintainability. Strong background in **JavaScript, PHP, Python, and WordPress**, with proven expertise in modern frameworks such as **Laravel, React, and Vue**.
+Experienced working with **International, fully remote teams**, trusted to deliver complex systems end-to-end while balancing performance, security, and long-term maintainability. Strong background in **JavaScript, PHP, Python, and WordPress**, with proven expertise in modern frameworks such as **Laravel, React, and Vue**.
 
-I have extensive experience working with **US-based companies and remote teams**, contributing to mission-critical systems involving payments, communications, and high-traffic platforms.
+I have extensive experience working with **International companies and remote teams**, contributing to mission-critical systems involving payments, communications, and high-traffic platforms.
 
 ---
 
