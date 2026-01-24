@@ -108,13 +108,4 @@ I have extensive experience working with **International companies and remote te
 * ✉️ Email: [osaki3b3@gmail.com](mailto:osaki3b3@gmail.com)
 
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osaki3b3&show_icons=true&hide_title=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osaki3b3" height="165" />
-</p>
-
-> *Live GitHub activity and contribution data.*
-
 ⭐ *Open to remote opportunities with US-based teams.*
