@@ -71,10 +71,6 @@ REST · OpenAPI · Stripe · Twilio (API & TwiML) · AI Code Assistants
 
 ## 🎓 Education
 
-* **Bachelor of Business Management** (2025 – 2029)
-  School of Business · Wardiere University
-  GPA: 3.8 / 4.0
-
 * **Bachillerato en Computación** (1999 – 2001)
 
 ---
