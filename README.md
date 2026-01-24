@@ -103,7 +103,7 @@ I have extensive experience working with **International companies and remote te
 
 ## 📫 Contact & Profiles
 
-* 💻 GitHub: [https://github.com/your-username](https://github.com/osaki3b3)
+* 💻 GitHub: [https://github.com/osaki3b3](https://github.com/osaki3b3)
 * 💼 Upwork: [https://www.upwork.com/freelancers/~01c0b7c1971a3dcec0](https://www.upwork.com/freelancers/~01c0b7c1971a3dcec0)
 * ✉️ Email: [osaki3b3@gmail.com](mailto:osaki3b3@gmail.com)
 
