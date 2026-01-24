@@ -111,8 +111,8 @@ I have extensive experience working with **International companies and remote te
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=osaki3b3&show_icons=true&hide_title=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osaki3b3" height="165" />
 </p>
 
 > *Live GitHub activity and contribution data.*
