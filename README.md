@@ -71,7 +71,7 @@ REST · OpenAPI · Stripe · Twilio (API & TwiML) · AI Code Assistants
 
 ## 🎓 Education
 
-* **Bachillerato en Computación** (1999 – 2001)
+* **Bachillerato en Computación & Diseño Gráfico ** (1999 – 2001)
 
 ---
 
