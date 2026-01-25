@@ -80,9 +80,15 @@ I have extensive experience working with **International companies and remote te
 
 ## 📜 Certifications
 
-* Senior Laravel Developer (2025 – 2026)
-* Senior ReactJS Developer (2025 – 2026)
-* Senior VueJS Developer (2025 – 2026)
+- **Senior Laravel Developer** (2025 – 2026)  
+  🔗 https://www.certificationforlaravel.com/
+
+- **Senior ReactJS Developer** (2025 – 2026)  
+  🔗 https://certificates.dev/react
+
+- **Senior VueJS Developer** (2025 – 2026)  
+  🔗 https://certificates.dev/vue
+
 
 ---
 
